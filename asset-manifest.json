@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/movieapp-react/static/css/main.c53e4e0d.chunk.css",
+    "main.js": "/movieapp-react/static/js/main.5bc6073c.chunk.js",
+    "main.js.map": "/movieapp-react/static/js/main.5bc6073c.chunk.js.map",
+    "runtime~main.js": "/movieapp-react/static/js/runtime~main.a0fd5af1.js",
+    "runtime~main.js.map": "/movieapp-react/static/js/runtime~main.a0fd5af1.js.map",
+    "static/js/2.3de6b9f2.chunk.js": "/movieapp-react/static/js/2.3de6b9f2.chunk.js",
+    "static/js/2.3de6b9f2.chunk.js.map": "/movieapp-react/static/js/2.3de6b9f2.chunk.js.map",
+    "index.html": "/movieapp-react/index.html",
+    "precache-manifest.140c9a69eb5ff8b461c997c1e04b86f9.js": "/movieapp-react/precache-manifest.140c9a69eb5ff8b461c997c1e04b86f9.js",
+    "service-worker.js": "/movieapp-react/service-worker.js",
+    "static/css/main.c53e4e0d.chunk.css.map": "/movieapp-react/static/css/main.c53e4e0d.chunk.css.map"
+  }
+}
