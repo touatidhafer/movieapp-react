@@ -1,0 +1,102 @@
+.App {
+  text-align: center;
+  color: white;
+}
+
+.header {
+  display: flex;
+  justify-content: flex-end;
+  padding: 30px;
+  align-items: center;
+  background-color: rgb(15, 15, 15);
+}
+
+.searchBar {
+  display: flex;
+  border-radius: 10px;
+  overflow: hidden;
+  margin-right: 60px;
+}
+
+.search {
+  width: 400px;
+  font-size: 25px;
+  background: rgb(148, 142, 142);
+  border: 1px solid black;
+}
+
+.search-btn {
+  border: 1px solid black;
+  border-left: none;
+  padding: 10px;
+  background: #42586b;
+  cursor: pointer;
+  font-size: 25px;
+}
+
+.addmovie {
+  position: absolute;
+  width: 100%;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.63);
+  top: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.addmovie input {
+  margin: 15px;
+  width: 400px;
+  font-size: 20px;
+}
+.annuler {
+  font-weight: 600;
+  font-size: 30px;
+  position: absolute;
+  top: 60px;
+  right: 400px;
+  cursor: pointer;
+}
+.annuler:hover {
+  text-shadow: 0px 0 6px #e0e0e0;
+  color: #f00;
+}
+.add-m {
+  padding: 10px 20px;
+  background: #01203a;
+  cursor: pointer;
+  font-size: 18px;
+  border-radius: 20px;
+  box-shadow: 0 0 7px 2px #eee;
+  margin-top: 20px;
+}
+.add-m:hover {
+  color: #01203a;
+  background: white;
+  box-shadow: 0 0 7px 2px #01203a;
+  font-weight: 600;
+}
+.none {
+  display: none;
+}
+.card-add {
+  font-size: 60px;
+  cursor: pointer;
+  text-shadow: 0 0 6px #eee;
+}
+.card-add:hover {
+  color: black;
+  cursor: pointer;
+  text-shadow: 0 0 6px #eee;
+  background: white;
+}
+.card-add a {
+  text-decoration: none;
+  color: #1cbd32;
+}
+
+.str {
+  color: rgb(155, 145, 10);
+}

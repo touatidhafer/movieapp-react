@@ -1,0 +1,33 @@
+.card {
+  width: 350px;
+  height: 500px;
+  border: 1px solid #464646;
+  margin: 20px;
+  border-radius: 7px;
+  position: relative;
+  overflow: hidden;
+}
+.card-img {
+  width: 100%;
+  height: 75%;
+}
+.card-name {
+  font-size: 25px;
+  font-weight: 600;
+  margin: 2%;
+  text-align: center;
+  color: black;
+}
+.card-review {
+  position: absolute;
+  padding: 5px 20px;
+  top: 0;
+  right: 0;
+  background: #81815875;
+  margin: 0;
+}
+.movies {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
